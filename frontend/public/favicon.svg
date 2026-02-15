@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- Ghost logo -->
+  <text y="85" font-size="80">👻</text>
+  <text y="98" font-size="12" x="50" text-anchor="middle" fill="#22c55e">BINARY HANGMAN</text>
+</svg>
